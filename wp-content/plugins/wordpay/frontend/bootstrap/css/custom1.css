@@ -1,0 +1,151 @@
+.dashicons-before img
+{
+
+width:22px!important;
+}
+a#Bst {
+font-size: 12px;
+color: #1a1a1a;
+}
+.continuercss {
+text-align: center;
+position: relative;
+left: 0%;
+top: 13px;
+}
+.continuercss a:before {
+content: url(../imgs/continue1.png);
+}
+.card{
+width: 100%;
+height: 60px;
+box-shadow: 0 4px 5px rgba(0,0,0,.2), 0 3px 14px rgba(0,0,0,.12), 0 8px 10px rgba(0,0,0,.14);
+float: left;
+
+margin-right: 20px;
+padding: 3px 0;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+
+
+
+.coin{
+width: 33%;
+height: 100%;
+float: left;
+    position: relative;
+    text-align: center;
+
+}
+
+.coinBt {
+      background: linear-gradient(180deg,#6fcf97,#66d2ea);
+border-radius: 10px 50px 50px 10px;
+display: block;
+left: -4px;
+padding: 15px 11px;
+font-size: 1em;
+color: #fff;
+font-weight: 300;
+text-transform: lowercase;
+position: absolute;
+top: 0px;
+}
+
+.coinBtNew {
+border: 2px solid #cfb9ff;
+border-radius: 36px;
+text-align: center;
+padding: 11px;
+width: 100%;
+float: right;
+margin-top: 5px;
+color: #cfb9ff;
+font-weight: 700;
+text-transform: uppercase;
+font-size: 12px;
+}
+
+
+.coinBal {
+    color: #c2c2ca;
+text-transform: uppercase;
+font-size: 11px;
+margin-top: 3px;
+
+}
+
+
+
+.text_0 {
+font-size: 15px;
+font-weight: 700;
+color: #cfb9ff;
+padding: 5px 10px;
+}
+
+.text_1 {
+font-size: 15px;
+font-weight: 700;
+color: #8f90a0;
+}
+
+.img_last{
+float: right;
+position: relative;
+right: 10px;
+top: 4px;
+}
+
+.coinImages img {
+float: right;
+margin-top: 8px;
+width: 23%;
+margin-right: 5px;
+}
+
+
+.text_1:before {
+content: url(../imgs/3.png);
+display: inline-block;
+position: relative;
+top: 5px;
+    padding-right: 5px;
+
+}
+h1#resulted {
+margin: 0;
+}
+.coinvalue{
+float: none !important;
+}
+@media only screen and (max-width: 397px) {
+	.coinImages img {
+width: 37% !important;}
+
+}
+
+
+
+@media only screen and (max-width: 767px) {
+
+.coinImages img {
+width: 21%;}
+
+.text_1 {
+font-size: 11px;}
+
+.coinBal{
+font-size: 10px;
+}
+
+.text_1:before{
+width: 26px;
+}
+.coinBt{
+    font-size: 13px;
+}
+
+}
+

@@ -1,0 +1,74 @@
+#wpcontent {
+     padding-left: 0px; 
+}
+h6 {
+    font-size: 14px;
+}
+.wordpayoverviewb{
+	background-image: url("img/wordpayback.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: -webkit-fill-available;
+	height: 140px;
+}
+
+.wordpaytext{ 
+	color: #fff;
+	font-weight: 700;
+	padding: 65px 0px;}
+
+.nav-tabs {
+ border-bottom: 1px solid #dee2e6;
+margin-top: -16px;
+background: #0b0a0a;
+}
+.img_right{
+	float: right;
+    position: relative;
+    top: -6px;
+}
+.img_right1{
+	float: right;
+}
+ .nav-item {
+    padding: 0px 0px 0px 22px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+}
+a.nav-link.active {
+    text-decoration: none;
+}
+.row {
+
+    margin-right: 0px; 
+    margin-left: 0px;
+}
+
+.revfont{
+	font-size: 20px;
+	font-weight: 700;
+}
+
+
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    margin-top: 35px;
+}
+
+.fontpublic{
+	font-size: 12px;
+}
+
+.fonttoday{
+	font-size: 13px;
+}
+.btnmargin
+{
+	margin-top: -7px;
+}
+/*.table-responsive {height:180px;}*/
+.pager{padding-left:0;margin:20px 0;text-align:center;list-style:none}.pager li{display:inline}.pager li>a,.pager li>span{display:inline-block;padding:5px 14px;background-color:#fff;border:1px solid #ddd;border-radius:15px}.pager li>a:hover,.pager li>a:focus{text-decoration:none;background-color:#eee}.pager .next>a,.pager .next>span{float:right}.pager .previous>a,.pager .previous>span{float:left}.pager .disabled>a,.pager .disabled>a:hover,.pager .disabled>a:focus,.pager .disabled>span{color:#777;cursor:not-allowed;background-color:#fff}

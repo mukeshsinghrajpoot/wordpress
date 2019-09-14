@@ -1,0 +1,53 @@
+
+---Downloaded files---
+The import files for: Import Demo Data were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpay
+Data file = /var/www/html/wordpay/wp-content/themes/medical-heed/inc/about/import/medicalheed-demo.xml
+Widget file = /var/www/html/wordpay/wp-content/themes/medical-heed/inc/about/import/medicalheed-widgets.wie
+Customizer file = /var/www/html/wordpay/wp-content/themes/medical-heed/inc/about/import/medicalheed-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Widget Area : 
+
+Text - About Us - Imported
+Gallery - Medical Gallery Images - Imported
+Image - No Title - Imported
+Video - No Title - Imported
+Recent Posts - No Title - Imported
+
+Footer Widget Area One : 
+
+Gallery - Medical Gallery Images - Imported
+
+Footer Widget Area Two : 
+
+Navigation Menu - Our Services - Imported
+
+Footer Widget Area Three : 
+
+Text - About Us - Imported
+
+Popup Sidebar Widget Area : 
+
+Text - Quick Appointments - Imported
+Image - More Sparkle Themes - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

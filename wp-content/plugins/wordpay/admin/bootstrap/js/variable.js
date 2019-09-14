@@ -1,0 +1,1 @@
+var base_url_v1= 'https://devapi.wordpay.io/api/v1';
